@@ -1,0 +1,21 @@
+.card{
+    box-shadow: 3px 3px 6px 2px black;
+    background-color: palevioletred;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.cardH{
+    font-size:.5cm ;
+    font-family: 'Patrick Hand', cursive;
+    text-align: center;
+}
+
+.card button{
+    font-weight: bold;
+    height: 1cm;
+    width: 4cm;
+    margin-left: 2cm;
+    border-radius: 20px;
+}
